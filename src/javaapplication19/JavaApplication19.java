@@ -3,6 +3,8 @@ package javaapplication19;
 
 public class JavaApplication19 {
 
+    //colombia gano por goleado
+    //colombia perdio
     
     void sort(int arr[])
     {
@@ -22,6 +24,8 @@ public class JavaApplication19 {
     void printArray(int arr[]){
         int n = arr.length;
         //imprime las posiciones en orden
+        
+        
         for (int i=0; i<n; i++)
             System.out.println(arr[i]+" ");
     }
