@@ -20,7 +20,7 @@ public class JavaApplication19 {
             arr[i] = temp;
          }
     }
-    
+    //goooooooooooooooooooooooooooooooooooooool colombiaano
     void printArray(int arr[]){
         int n = arr.length;
         //imprime las posiciones en orden
